@@ -1,10 +1,10 @@
 {
-  "name": "devblog",
-  "description": "GatsbyJS blog template for developers",
+  "name": "devblognetlify",
+  "description": "Gatsby powered blog for my dev, pushed to netlify",
   "version": "2.0.0",
-  "author": "Ryan Fitzgerald <ryanfitzgeralddev@gmail.com>",
+  "author": "Kevin Jones <him@kevincjones.co.uk>",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/devblog/issues"
+    "url": "https://github.com/kevcjones/devblognetlify/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.31",
@@ -38,7 +38,7 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://github.com/ryanfitzgerald/devblog#readme",
+  "homepage": "https://github.com/kevjones/devblognetlify#readme",
   "keywords": [
     "gatsby",
     "dev",
@@ -49,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanfitzgerald/devblog.git"
+    "url": "git+https://github.com/kevcjones/devblognetlify.git"
   },
   "scripts": {
     "dev": "gatsby develop",

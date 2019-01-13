@@ -1,6 +1,6 @@
 module.exports = {
   title: "My coding diary", // Required
-  author: "Kevin Jones", // Required
+  author: "Kevin C Jones", // Required
   description: "Frontend Engineer",
   primaryColor: "#3498db", // Required
   showHeaderImage: true,
