@@ -12,6 +12,5 @@ module.exports = {
     twitter: "https://twitter.com/kevcjones",
     linkedin: "https://www.linkedin.com/in/kevin-c-jones-7a22372/"
   },
-  pathPrefix: "",
   siteUrl: "https://kevincjones.co.uk"
 };
